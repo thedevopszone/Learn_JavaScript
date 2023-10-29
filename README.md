@@ -11,3 +11,7 @@ vi index.html
 <script src="./index.js"></script>
 ```
 
+Or with node
+```
+node index.js
+```
